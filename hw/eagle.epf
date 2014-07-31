@@ -388,8 +388,8 @@ UsedLibrary="/opt/eagle-6.4.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="25 139 1708 1011"
-State=1
+Loc="2048 189 3251 1105"
+State=2
 Number=0
 
 [Desktop]
