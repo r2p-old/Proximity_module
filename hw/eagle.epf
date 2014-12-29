@@ -402,8 +402,8 @@ UsedLibrary="/home/tino/workspace/openrobots/Eagle/lbr/u-blox.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="1959 133 3130 641"
-State=2
+Loc="25 139 1708 1011"
+State=1
 Number=0
 
 [Desktop]
